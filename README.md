@@ -31,3 +31,5 @@ Um remake do jogo Pong com loja e personalização.
 ```bash
 git clone https://github.com/seu-usuario/pong-loja.git
 cd pong-loja
+
+pip install -r requirements.txt
